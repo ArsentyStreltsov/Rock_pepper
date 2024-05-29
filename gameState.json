@@ -1,0 +1,10 @@
+{
+  "score": {
+    "playerWins": 3,
+    "computerWins": 7
+  },
+  "round": {
+    "playerSelection": "rock",
+    "computerSelection": "paper"
+  }
+}
